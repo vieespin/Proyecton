@@ -39,7 +39,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => '@w
     echo Nav::widget([
         'options' => ['class' => 'navbar-nav'],
         'items' => [
-            ['label' => 'Home', 'url' => ['/site/index']],
+            ['label' => 'Iniciossss', 'url' => ['/site/index']],
             ['label' => 'Usuarios', 'url' => ['/users/index']],
             ['label' => 'Laboratorios', 'url' => ['/laboratorios/index']],
             ['label' => 'Horarios', 'url' => ['/horarios/index']],
